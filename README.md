@@ -1,12 +1,12 @@
 # Usefullapps_LIST
 
-- [Tor Browser](#Tor Browser)
+- [Tor Browser](#Tor)
 - [dnSpy](#dnSpy)
 - [Ubuntu](#Ubuntu)
 
 
 ## General List
-- ### Tor Browser
+- ### Tor
   - [Tor Browser](https://www.torproject.org/download/) - Simple browser giving you more privacy
 - ### dnSpy
   - [dnSpy](https://github.com/dnSpy/dnSpy) - Debugger and .NET assembly editor
